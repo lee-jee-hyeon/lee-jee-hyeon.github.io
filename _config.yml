@@ -50,11 +50,11 @@ author_work_experiences:
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: kit.jpg
+                college_name: Kumoh national institute of technology
+                college_url: https://www.kumoh.ac.kr/ko/index.do
+                college_degree: Engineer
+                description: Computer Enginner
                 visibility: true
 
 # Projects
@@ -72,11 +72,11 @@ author_project_details:
 
 # social links
 twitter_username: johndoe
-github_username:  sujaykundu777
+github_username:  lee-jee-hyeon
 facebook_username: johndoe
 linkedin_username: johndoe
 behance_username: johndoe
-instagram_username: johndoe
+instagram_username: watashiwajihyeon
 medium_username: johndoe
 telegram_username: johndoe
 dribbble_username: johndoe
