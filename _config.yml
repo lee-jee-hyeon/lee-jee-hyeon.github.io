@@ -1,5 +1,5 @@
-title: DLOG
-subtitle: 지현 개발 로그
+title: 이지현 블로그
+subtitle: DEVELOP LOG
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
@@ -29,7 +29,7 @@ author: JIHYEONLEE
 author_bio: jihyeon blog
 author_email: "jahhyn@gmail.com"
 author_location: Deagu, South Korea
-author_website_url: "https://sujaykundu.com"
+author_website_url: "https://github.com/lee-jee-hyeon"
 typewrite-text: Log about enterprize data platform develop
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
@@ -91,11 +91,11 @@ hyvor_talk_website_id: 476
 wakatime_username: lee-jee-hyeon
 
 # mailchimp embedded form url (newsletter):
-mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
+mailchimp_form_url: 
 
 # contact form - (choose formspress or getform)
 # getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
-formspree_email: johndoe@gmail.com
+formspree_email: jahhyn@gmail.com
 
 # releases - widget can be (sidebar, modal or embed)
 olvy_organization: JI HYEON LEE
